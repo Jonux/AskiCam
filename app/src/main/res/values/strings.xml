@@ -1,0 +1,25 @@
+<resources>
+    <!-- Application View properties -->
+    <string name="app_name">AskiCam</string>
+    <string name="askiImageStatus">Application Starting...</string>
+
+    <!-- AskiCam properties -->
+    <string name="askiCamUrl">http://as.ayy.fi/askicam-data/cam/sohvat-now.jpg</string>
+    <string name="askiCamNumber">tel:+358504329223</string>
+
+    <!-- Alternative Image Urls
+    http://static1.squarespace.com/static/511998d5e4b0dcc6d897b5ed/54e43e5be4b0004c77598f0c/54e43e73e4b0ebdf351664b1/1424244339547/kb_cover_final_dark.jpg?format=1000w
+    https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Vorschriftszeichen_1.svg/600px-Vorschriftszeichen_1.svg.png
+    https://as.ayy.fi/askicam-data/cam/sohvat-large.jpg
+    -->
+
+    <!-- Image loading messages -->
+    <string name="imageLoadingFailedMsg">Image loading failed!</string>
+    <string name="imageLoadedSuccessfullyMsg">Image Loaded (%s)!</string>
+    <string name="imageLoadingStartedMsg">Image loading started!</string>
+
+
+    <!-- Author properties -->
+    <string name="versionInfo">Version 0.2</string>
+    <string name="authorInfo">©Jonux, 2016</string>
+</resources>

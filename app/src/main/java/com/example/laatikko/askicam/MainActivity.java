@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
             //process message
             imageView.setImageBitmap(image);
             infoTextView.setText(message);
+            imageLoading = false;
         }
     }
 

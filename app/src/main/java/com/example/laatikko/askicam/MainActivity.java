@@ -88,12 +88,6 @@ public class MainActivity extends AppCompatActivity {
         layoutParams.height = size.y;
         imageView.setLayoutParams(layoutParams);
 
-        /*
-        Bitmap.Config conf = Bitmap.Config.ARGB_8888; // see other conf types
-        Bitmap bmp = Bitmap.createBitmap(size.x, size.y, conf); // this creates a MUTABLE bitmap
-        bmp.eraseColor(Color.GRAY);
-        */
-
         refreshView();
 
         // Call button
